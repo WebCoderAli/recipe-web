@@ -1,6 +1,6 @@
 <h1>Recipe App Development Algorithm</h1>
 
-    <section>
+   
         <h2>1. Set Up Your Project</h2>
         <ul>
             <li>Create a new folder for your project.</li>
@@ -12,9 +12,9 @@
                 </ul>
             </li>
         </ul>
-    </section>
+   
 
-    <section>
+   
         <h2>2. Write the HTML</h2>
         <ul>
             <li>In <strong>index.html</strong>, set up the basic structure:
@@ -26,9 +26,9 @@
                 </ul>
             </li>
         </ul>
-    </section>
+    
 
-    <section>
+
         <h2>3. Style with CSS</h2>
         <ul>
             <li>In <strong>style.css</strong>, write styles to make your app look good:
@@ -39,9 +39,9 @@
                 </ul>
             </li>
         </ul>
-    </section>
+   
 
-    <section>
+    
         <h2>4. Add Functionality with JavaScript</h2>
         <ul>
             <li>In <strong>index.js</strong>, write JavaScript code to:
@@ -53,4 +53,4 @@
                 </ul>
             </li>
         </ul>
-    </section>
+
